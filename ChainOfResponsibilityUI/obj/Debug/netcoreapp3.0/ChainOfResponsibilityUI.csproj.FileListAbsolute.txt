@@ -1,0 +1,12 @@
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\bin\Debug\netcoreapp3.0\ChainOfResponsibilityUI.exe
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\bin\Debug\netcoreapp3.0\ChainOfResponsibilityUI.deps.json
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\bin\Debug\netcoreapp3.0\ChainOfResponsibilityUI.runtimeconfig.json
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\bin\Debug\netcoreapp3.0\ChainOfResponsibilityUI.runtimeconfig.dev.json
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\bin\Debug\netcoreapp3.0\ChainOfResponsibilityUI.dll
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\bin\Debug\netcoreapp3.0\ChainOfResponsibilityUI.pdb
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\obj\Debug\netcoreapp3.0\ChainOfResponsibilityUI.csprojAssemblyReference.cache
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\obj\Debug\netcoreapp3.0\ChainOfResponsibilityUI.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\obj\Debug\netcoreapp3.0\ChainOfResponsibilityUI.AssemblyInfoInputs.cache
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\obj\Debug\netcoreapp3.0\ChainOfResponsibilityUI.AssemblyInfo.cs
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\obj\Debug\netcoreapp3.0\ChainOfResponsibilityUI.dll
+C:\Users\Marcin\Desktop\programowanie\repos\ChainOfResponsibility\ChainOfResponsibilityUI\obj\Debug\netcoreapp3.0\ChainOfResponsibilityUI.pdb
